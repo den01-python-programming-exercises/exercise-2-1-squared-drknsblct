@@ -1,6 +1,6 @@
 def main():
     #write your code below this line
-    num = int(input('Give number:'))
+    num = int(input(''))
     
     print(str(num**2))
 
